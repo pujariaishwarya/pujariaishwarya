@@ -14,8 +14,8 @@
 - 💬 Ask me about **Machine Learning, Kernels, C++, OOPS, Microcontrollers**
 
 - 📫 How to reach me **pujariaishwaryag25@gmail.com**
+  <!-- ⚡ Fun fact I am Actually -->
 
-- ⚡ Fun fact **I am Actually Mad**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
